@@ -1,2 +1,2 @@
-# WebPrgrmPj
+# HJWebPage
 Web Programming Project
